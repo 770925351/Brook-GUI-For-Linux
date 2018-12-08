@@ -18,6 +18,7 @@
 >
 > > ```sh
 > > chomd +x brook Application-x86_64.AppImage
+> > ./Application-x86_64.AppImage
 > > ```
 > >
 
